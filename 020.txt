@@ -4,8 +4,6 @@
 广东珠江,https://stream1.freetv.fun/be8bd9360b70364a0016680ed6b500199b87c48719344e99d444e271eccf9a7f.ctv
 大湾区卫视,https://stream1.freetv.fun/f8e0ebc17c330fb1f1993f67b3df12c2967c9aeb697ad56adae5613211babe42.m3u8
 CCTV1,http://148.135.93.213:81/live.php?id=CCTV1
-凤凰资讯,http://148.135.93.213:81/live.php?id=凤凰资讯
-凤凰中文,http://148.135.93.213:81/live.php?id=凤凰中文
-凤凰香港,http://148.135.93.213:81/live.php?id=凤凰香港
-广东珠江1,http://148.135.93.213:81/live.php?id=广东珠江
-大湾区卫视1,http://148.135.93.213:81/live.php?id=大湾区卫视
+中文1,http://fm1077.serv00.net/Smart.php?id=cctv16
+中文2,http://z.b.bkpcp.top/m.php?id=cctv17
+中文3,http://tvbox6.icu/tv/migu.php?id=ljcwhg
