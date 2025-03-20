@@ -1,12 +1,5 @@
 广东频道,#genre#
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-18.ctv
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-7.ctv
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-gao-qing-1.ctv
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-28.ctv
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-29.ctv
-广东珠江,http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
-广东珠江15,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1463&tk=a0c4f6cfaba3
-广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,https://stream1.freetv.fun/703a1181e6dd8bf05f3f98dae297ee163fd5323f83973720a9763eb1b6e59b88.m3u8
 大湾区卫视,https://stream1.freetv.fun/f8e0ebc17c330fb1f1993f67b3df12c2967c9aeb697ad56adae5613211babe42.m3u8
