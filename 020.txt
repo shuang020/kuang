@@ -5,7 +5,6 @@
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
