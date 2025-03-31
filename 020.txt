@@ -1,7 +1,6 @@
 广东频道,#genre#
 广东珠江,http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 大湾区卫视,http://dsk.cc/php/xxtv.php?id=dwqws
 深圳卫视,https://stream1.freetv.fun/ipv6-shen-zhen-wei-shi-56.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
