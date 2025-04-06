@@ -1,10 +1,6 @@
 广东频道,#genre#
-广东珠江,http://ku9.3n.cc/smt.php?id=zhujiang
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东珠江,http://14.212.185.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
-广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://14.212.185.27:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,https://stream1.freetv.fun/ipv6-shen-zhen-wei-shi-56.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 广东卫视,http://my.tmos.cn:15181/chs006.m3u8
