@@ -1,4 +1,7 @@
 广东频道,#genre#
+广东珠江,http://183.17.236.218:8800/udp/239.77.0.1:5146
+广东珠江,http://113.90.244.6:4000/udp/239.77.0.1:5146
+广东珠江,http://113.67.165.26:8888/udp/239.77.0.1:5146
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,https://stream1.freetv.fun/ipv6-shen-zhen-wei-shi-56.m3u8
@@ -7,6 +10,10 @@
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-68.m3u8
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-16.m3u8
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-73.m3u8
+大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111
+大湾区卫视,http://116.31.164.30:4022/udp/239.77.0.215:5146
+大湾区卫视,http://183.17.236.218:8800/udp/239.77.0.215:5146
+大湾区卫视,http://113.90.244.6:4000/udp/239.77.0.215:5146
 广东新闻,http://14.212.185.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://14.212.185.146:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
