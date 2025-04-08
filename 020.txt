@@ -1,13 +1,8 @@
 广东频道,#genre#
-广东珠江,http://kele666.serv00.net/Smart.php?id=zhujiang
-广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-14.m3u8
-广东珠江,http://live.xmcdn.com/live/252/64.m3u8
-广东珠江,http://1b6467f415.iok.la:9931/tsfile/live/1011_1.m3u8
 广东珠江,http://59.34.212.31:4022/udp/239.77.0.1:5146
-广东珠江,http://14.117.233.115:9000/udp/239.77.0.1:5146
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111
-大湾区卫视,http://125.90.252.145:4028/udp/239.77.0.215:5146
+大湾区卫视,http://59.34.212.31:4022/udp/239.77.0.215:5146
 深圳卫视,https://stream1.freetv.fun/ipv6-shen-zhen-wei-shi-56.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 广东卫视,http://my.tmos.cn:15181/chs006.m3u8
