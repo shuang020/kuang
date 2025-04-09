@@ -1,7 +1,9 @@
-广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-1.m3u8
-广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-3.m3u8
-广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-6.m3u8
-广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-8.m3u8
-广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-9.m3u8
+广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-22.m3u8
+广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-24.m3u8
+广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-25.m3u8
+广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-29.m3u8
+广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-30.m3u8
+广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-31.m3u8
+广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-32.m3u8
+广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-30.m3u8
 广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-10.m3u8
-广东珠江,http://148.135.93.213:81/live.php?id=gdzj
