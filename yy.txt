@@ -1,7 +1,8 @@
-佛山综合,http://tp88.cn/IPTV/guangdong/fstv.php?id=fszh
-广东珠江,http://ku9.3n.cc/smt.php?id=zhujiang
-广州影视,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZHouYingShi
-广州影视2,http://tp88.cn/IPTV/guangdong/gztv.php?id=yingshi
-广州竞赛,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb
-广州竞赛2,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouJingSai
-广州综合,http://tp88.cn/IPTV/guangdong/gztv.php?id=zhonghe
+广东卫视,http://148.135.93.213:81/live.php?id=广东卫视
+广东卫视,http://148.135.93.213/live.php?id=广东卫视
+广东卫视,http://148.135.93.213:81/live.php?id=广东珠江
+广东卫视,http://148.135.93.213/live.php?id=广东珠江
+广东卫视,http://148.135.93.213:81/live.php?id=大湾区卫视
+广东卫视,http://148.135.93.213/live.php?id=大湾区卫视
+广东卫视,http://148.135.93.213:81/live.php?id=珠江卫视
+广东卫视,http://148.135.93.213/live.php?id=珠江卫视
