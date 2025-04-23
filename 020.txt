@@ -2,7 +2,6 @@
 广东珠江,http://14.212.185.146:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 深圳卫视,http://148.135.93.213:81/live.php?id=深圳卫视
-深圳卫视,http://107.174.52.32/itv.php?id=%e6%b7%b1%e5%9c%b3%e5%8d%ab%e8%a7%86
 深圳卫视,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 深圳卫视,http://39.135.133.167/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226313/index.m3u8
 深圳卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
@@ -12,7 +11,6 @@
 广东卫视,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://148.135.93.213:81/live.php?id=广东卫视
-广东卫视,http://107.174.52.32/itv.php?id=%e5%b9%bf%e4%b8%9c%e5%8d%ab%e8%a7%86
 广东卫视,http://my.tmos.cn:15181/chs006.m3u8
 广东新闻,http://14.212.185.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://14.212.185.146:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -58,8 +56,6 @@
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 
 央视频道,#genre#
-
-
 CCTV1综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1综合,http://39.134.65.215/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1综合,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -146,8 +142,18 @@ CCTV15音乐,http://148.135.93.213:81/live.php?id=CCTV15
 CCTV16奥林匹克,http://148.135.93.213:81/live.php?id=CCTV16
 CCTV17农业农村,http://148.135.93.213:81/live.php?id=CCTV17
 卫视频道,#genre#
+凤凰资讯,https://cdn6.0o0.myfw.us/live/fhzx/stream.m3u8
+凤凰资讯,https://live.cdn.com.mp/live/fhzx/stream.m3u8
+凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://148.135.93.213:81/phenix.php?id=fhzx
+凤凰中文,https://cdn.163.dedyn.io/live/fhzw/stream.m3u8
+凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://b.tvbox6.icu/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/fhzw.m3u8
 凤凰中文,http://148.135.93.213:81/phenix.php?id=fhzw
+凤凰香港,https://cdn6.0o0.myfw.us/live/fhhk/stream.m3u8
+凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://148.135.93.213:81/phenix.php?id=fhhk
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
