@@ -1,7 +1,5 @@
 广东频道,#genre#
 广东珠江,http://zb.xmzb.xyz/live_proxy.php?id=GdZhuJIAng
-广东珠江,http://congtou.top:9292/rtp/239.77.0.1:5146
-广东珠江,http://congtou.top:9292/rtp/239.77.0.114:5146
 广东经济,http://zb.xmzb.xyz/live_proxy.php?id=GdjIngJI
 广东民生,http://congtou.top:9292/rtp/239.77.0.225:5146
 广东少儿,http://congtou.top:9292/rtp/239.77.0.250:5146
@@ -11,6 +9,7 @@
 广东新闻,http://zb.xmzb.xyz/live_proxy.php?id=GdXINwen
 广东新闻,http://congtou.top:9292/rtp/239.77.0.173:5146
 广东影视,http://congtou.top:9292/rtp/239.77.0.217:5146
+大湾区卫视,http://zb.xmzb.xyz/live_proxy.php?id=DwqWeISHI
 大湾区卫视,http://198.16.100.186:8278/nanfang_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=c1b08f183c8b9cf78562bf8107d7a0b5
 深圳卫视,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 深圳卫视,http://39.135.133.167/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226313/index.m3u8
@@ -88,20 +87,15 @@
 揭阳生活,http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
 揭阳综合,http://tv.zzlag.top:9003/hls/7/index.m3u8
 揭阳综合,http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
-韶关新闻,https://live.sgmsw.cn/hls/lhx1FUeZg/playlist.m3u8
 河源公共,http://congtou.top:9292/rtp/239.253.43.214:5146
 河源综合,http://congtou.top:9292/rtp/239.253.43.213:5146
 惠州生活,http://congtou.top:9292/rtp/239.77.1.233:5146
 惠州新闻,http://congtou.top:9292/rtp/239.77.1.232:5146
 江门侨乡,http://congtou.top:9292/rtp/239.77.0.202:5146
 江门综合,http://congtou.top:9292/rtp/239.77.0.201:5146
-揭阳生活,http://congtou.top:9292/rtp/239.77.0.251:5146
-揭阳综合,http://congtou.top:9292/rtp/239.77.0.229:5146
 茂名公共,http://congtou.top:9292/rtp/239.77.0.207:5146
 茂名综合,http://congtou.top:9292/rtp/239.77.0.206:5146
 梅州综合,http://congtou.top:9292/rtp/239.253.43.123:5146
-清远文旅,http://congtou.top:9292/rtp/239.253.43.34:5146
-清远新闻,http://congtou.top:9292/rtp/239.253.43.33:5146
 汕头经济,http://congtou.top:9292/rtp/239.253.43.46:5146
 汕头经济,http://congtou.top:9292/rtp/239.77.1.131:5146
 汕头综合,http://zb.xmzb.xyz/live_proxy.php?id=STxinwen
@@ -127,7 +121,7 @@
 肇庆综合,http://congtou.top:9292/rtp/239.253.43.1:5146
 中山综合,http://congtou.top:9292/rtp/239.253.43.62:5146
 客家生活,http://congtou.top:9292/rtp/239.253.43.124:5146
-
+韶关新闻,http://congtou.top:9292/rtp/239.77.0.117:5146
 央视频道,#genre#
 CCTV1综合,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1综合,http://39.134.65.215/PLTV/88888888/224/3221225816/1.m3u8
@@ -197,14 +191,11 @@ CCTV17农业农村,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV17农业农村,http://39.134.65.207/PLTV/88888888/224/3221225708/1.m3u8
 
 卫视频道,#genre#
-凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,https://smt.1789.dpdns.org/smt3.2.1.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,https://smt.1789.dpdns.org/smt3.2.1.php?id=phoenixtv_hd
-凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,https://smt.1789.dpdns.org/smt3.2.1.php?id=hkphoenix_twn
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
