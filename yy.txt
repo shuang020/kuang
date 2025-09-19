@@ -126,9 +126,7 @@ CETV1,http://120.238.5.44:1698/hls/47/index.m3u8
 优漫卡通,http://120.238.5.44:1698/hls/58/index.m3u8
 
 乐同频道,#genre#
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv?%E4%BA%8C%E6%9C%8D
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://stream-ali1.csslcloud.net/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv?%E4%BA%8C%E6%9C%8D
 凤凰资讯,http://66.90.99.154:8278/phoenixinfo_hd/playlist.m3u8?tid=MA3A6410766664107666&ct=20347&tsum=c90970b7a5ddb5d41a8fd27daf2c9cb0
 凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv?%E4%BA%8C%E6%9C%8D
@@ -144,3 +142,4 @@ CETV1,http://120.238.5.44:1698/hls/47/index.m3u8
 TVB星河台,http://120.238.5.44:1698/hls/88/index.m3u8
 家庭影院,http://120.238.5.44:1698/hls/69/index.m3u8
 动作电影,http://120.238.5.44:1698/hls/70/index.m3u8
+
