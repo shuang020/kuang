@@ -1,10 +1,6 @@
 广东频道,#genre#
 大湾区卫视,http://120.238.5.44:1698/hls/11/index.m3u8
-大湾区卫视,http://66.90.99.154:8278/nanfang_twn/playlist.m3u8?tid=MB6B9425415094254150&ct=20347&tsum=7575a466c13341b61d8bfccd8f93e6c0
-大湾区卫视,http://66.90.99.154:8278/nanfang_twn/playlist.m3u8?tid=MA7A1691864016918640&ct=20347&tsum=9e425c8d69796ce3855ce6b7bd819a57
 广东珠江,http://120.238.5.44:1698/hls/78/index.m3u8
-广东珠江,http://66.90.99.154:8278/zhujiang/playlist.m3u8?tid=MBAB3258789032587890&ct=20347&tsum=3ff3cc684e9d6437d60d38ba34868364
-广东珠江,http://66.90.99.154:8278/zhujiang/playlist.m3u8?tid=MD7D2612518326125183&ct=20347&tsum=87bc019547ea88b0470c8841fa3d04f1
 广东卫视,http://120.238.5.44:1698/hls/8/index.m3u8
 广东民生,http://120.238.5.44:1698/hls/9/index.m3u8
 广东新闻,http://120.238.5.44:1698/hls/10/index.m3u8
@@ -128,18 +124,17 @@ CETV1,http://120.238.5.44:1698/hls/47/index.m3u8
 乐同频道,#genre#
 凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv?%E4%BA%8C%E6%9C%8D
 凤凰资讯,http://stream-ali1.csslcloud.net/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv?%E4%BA%8C%E6%9C%8D
-凤凰资讯,http://66.90.99.154:8278/phoenixinfo_hd/playlist.m3u8?tid=MA3A6410766664107666&ct=20347&tsum=c90970b7a5ddb5d41a8fd27daf2c9cb0
-凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv?%E4%BA%8C%E6%9C%8D
+凤凰资讯,http://120.238.5.44:1698/hls/85/index.m3u8
+凤凰中文,http://120.238.5.44:1698/hls/86/index.m3u8
+凤凰香港台,http://120.238.5.44:1698/hls/87/index.m3u8
 澳视澳门,http://120.238.5.44:1698/hls/76/index.m3u8
 重温经典,http://120.238.5.44:1698/hls/80/index.m3u8
 新视觉,http://120.238.5.44:1698/hls/81/index.m3u8
 影迷电影,http://120.238.5.44:1698/hls/82/index.m3u8
 翡翠台,http://120.238.5.44:1698/hls/83/index.m3u8
 明珠台,http://120.238.5.44:1698/hls/84/index.m3u8
-凤凰资讯,http://120.238.5.44:1698/hls/85/index.m3u8
-凤凰中文,http://120.238.5.44:1698/hls/86/index.m3u8
-凤凰香港台,http://120.238.5.44:1698/hls/87/index.m3u8
 TVB星河台,http://120.238.5.44:1698/hls/88/index.m3u8
 家庭影院,http://120.238.5.44:1698/hls/69/index.m3u8
 动作电影,http://120.238.5.44:1698/hls/70/index.m3u8
+
 
